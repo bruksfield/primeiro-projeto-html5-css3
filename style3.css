@@ -1,0 +1,114 @@
+body {
+    background-color: blanchedalmond;
+    font-family: Verdana, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+.dragao {
+    border: 8px solid rgb(0, 0, 0);
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    display: block;
+}
+
+.title {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-left: 7px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.post {
+    background-color: darkslategrey;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.title_lass {
+    color: rgb(164, 97, 226);
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 0;
+}
+
+.img_lass {
+    border: 5px solid rgb(59, 137, 137);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+}
+
+.lass {
+    margin: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.post2 {
+    background-color: darkslategrey;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.title_ronan {
+    color: rgb(186, 179, 179);
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+.img_ronan {
+    border: 5px solid rgb(51, 137, 137);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+}
+
+.ronan {
+    margin: 5px;
+    margin-top: 10px;
+    margin-bottom: 10;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.redes {
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 100px;
+    font-style:inherit;
+}
+
+.lista_estilo {
+    list-style-type: square;
+}
+
+.lista_estilo li a {
+    color: blue;
+}
+
+.post2 p a {
+    color: rgb(3, 3, 188);
+
+}
